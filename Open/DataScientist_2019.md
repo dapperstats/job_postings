@@ -3,6 +3,7 @@
 [DAPPER Stats](https://www.dapperstats.com) is hiring! We are seeking a motivated, smart data scientist to join our team and help expand our growing company.
 
 **Posted**: 2019-10-03
+
 **Stage 1 deadline**: 2019-10-18
 
 ### Position Overview
@@ -38,7 +39,9 @@ The ideal candidate will be well-versed scientifically. This likely means that t
 The ideal start date is January 2020, but work is available now so the start date can be earlier, or the start can be pushed back if needed.
 
 Salary: $60,000 / yr
+
 Medical: health care and dental via the [ACA's Small Business Health Options Program (SHOP)](https://www.healthcare.gov/small-businesses/employers/)
+
 Additional Benefits: standard federally required benefits (COBRA, Disability, FMLA, Unemployment, Worker's Comp), flexible schedule and location, business development training
 
 This position will ideally be for 2 years, with the possibility of developing into a longer-term role. However, we are a startup company and unfortunately cannot guarantee funding that far in advance. What we can guarantee, however, is a fully-funded (with benefits) position for 6 months, access to projects to lead that could generate additional support, a high likelihood for funding beyond 6 months, and that you will be paid before me.
