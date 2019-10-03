@@ -44,7 +44,7 @@ Medical: health care and dental via the [ACA's Small Business Health Options Pro
 
 Additional Benefits: standard federally required benefits (COBRA, Disability, FMLA, Unemployment, Worker's Comp), flexible schedule and location, business development training
 
-This position will ideally be for 2 years, with the possibility of developing into a longer-term role. We are a startup company and unfortunately cannot guarantee funding that far in advance. What we can guarantee, however, is a fully-funded (with benefits) position for 6 months, access to projects to lead that could generate additional support, a high likelihood for funding beyond 6 months. 
+This position will ideally be for 2 years, with the possibility of developing into a longer-term role. We are a startup company and unfortunately cannot guarantee funding that far in advance. What we can guarantee, however, is a fully-funded (with benefits) position for 6 months, access to projects to lead that could generate additional support, a high likelihood for funding beyond 6 months. Recognizing the stress and uncertainty of working for a startup, DAPPER will prioritize your compensation.
 
 DAPPER is presently located in Portland, Oregon, USA. Given the nature of our work, telecommuting or working remotely are suitable for this position. If you are not in Portland and are interested in relocating, we can help cover moving costs.
 
