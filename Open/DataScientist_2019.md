@@ -1,5 +1,7 @@
 # Data Scientist opening at [DAPPER Stats](https://www.dapperstats.com)
 
+![](https://github.com/dapperstats/Lab_Documents/blob/master/Logo/logo_web_color.png)
+
 [DAPPER Stats](https://www.dapperstats.com) is hiring! We are seeking a motivated data scientist to join our team and help expand our company by assisting with ongoing projects focused on Pacific coast fisheries, avian impacts of renewable power facilities, and wetland mitigation designs, as well as by leading new projects aligned with their interests.
 
 **Posted**: 2019-10-03
