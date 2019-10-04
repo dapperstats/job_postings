@@ -1,8 +1,11 @@
+<br>
 <a href='https://www.dapperstats.com'>
-<img src = 'https://github.com/dapperstats/Lab_Documents/blob/master/Logo/logo_web_color.png' alt = 'DAPPER logo' height = '80' align="right" />
+<img src = 'https://raw.githubusercontent.com/dapperstats/Lab_Documents/master/Logo/logo_web_color.png' alt = 'DAPPER logo' width = '150px' align="right" />
 </a>
 
 # Data Scientist opening at [DAPPER Stats](https://www.dapperstats.com)
+
+<br>
 
 [DAPPER Stats](https://www.dapperstats.com) is hiring! We are seeking a motivated data scientist to join our team and help expand our company by assisting with ongoing projects focused on Pacific coast fisheries, avian impacts of renewable power facilities, and wetland mitigation designs, as well as by leading new projects aligned with their interests.
 
@@ -23,11 +26,13 @@ The position is provisionally titled "Data Scientist", but we recognize that dif
 In many ways, this position is akin to an academic post-doc, but with the opportunity to develop and expand the role to suit the employee's desires and DAPPER's needs.
 
 The ideal candidate is presently: 
+
 * interested in applied computational, statistical, and/or theoretical ecology (or related fields)
 * looking for science careers outside of academia
 * happy to take on existing projects that have defined scopes
 
 As a Data Scientist, you will able to:
+
 * collaborate directly with clients to identify anlytical needs and methods
 * develop or extend existing mathematical models for ecological data
 * write code to prepare, manipulate, analyze, and visualize data
@@ -35,6 +40,7 @@ As a Data Scientist, you will able to:
 * communicate findings clearly to a variety of stakeholders (scientists, managers, lawyers, lay public, etc.) to educate and inform them
 
 Over the term of the position, through training and support from DAPPER Stats, the Data Scientist would be able to (if desired):
+
 * develop and foster their own collaborations and client relationships
 * take a leadership role in DAPPER and help guide the company's development
 * oversee administrative tasks on projects
@@ -44,6 +50,7 @@ The specifics of the position, including which projects the Data Scientist will 
 ### Desired Skills and Education
 
 We are looking for employees with the following range of skills and trainings:
+
 * scientific process: able to oversee a scientific project from conception to publication
 * coding: proficiency with the software and languages of their choice (DAPPER is language agnostic)
 * analyses: capability to analyze complex data sets (non-normal, 0-heavy, missing data, autocorrelation, etc.) as part of a research project
@@ -57,7 +64,7 @@ The ideal start date is January 2020, but work is available now so the start dat
 
 Salary: $60,000 / year
 
-Medical: health care and dental via the [ACA's Small Business Health Options Program (SHOP)](https://www.healthcare.gov/small-businesses/employers/)
+Medical: health care and dental via the Oregon Health Insurance Marketplace
 
 Additional Benefits: standard federally required benefits (COBRA, Disability, FMLA, Unemployment, Worker's Comp), flexible schedule and location, business and professional development training
 
@@ -74,6 +81,7 @@ The evaluation process will occur in three stages:
 #### First Stage
 
 Candidates should submit the following to express their interest in the position:
+
 * A letter of interest (maximum 1 page)
   * Tell us a bit about yourself! 
   * Some possible things to cover: What are you looking for in a job? What are your career aspirations and how does this position align with them? What do you value in a workplace environment?
@@ -108,8 +116,11 @@ You can find our [Mission and Vision](https://github.com/dapperstats/Lab_Documen
 The work we presently do spans a variety of organisms and ecosystems, with a particular focus on estimating small populations from incomplete samples. Recently, this has involved work on endangered fishes in the California Delta, birds and bats at renewable power facilities, and cooperatively managed wolf reintroductions. In addition to producing academic and technical literature, we build tools that help front-end users (e.g., wildlife managers, plant operators) understand core concepts and leverage contemporary statistical tools with push-button ease. 
 
 Examples of some recent projects:
+
 * GenEst estimator of fatalities: [software package](https://cran.r-project.org/web/packages/GenEst/index.html), [web app](https://west-inc.shinyapps.io/GenEst/), [technical documents](https://pubs.er.usgs.gov/publication/tm7C19)
 * Delta smelt population distribution model: [manuscript](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2634)
 * Automated population forecasting: [manuscript](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13104), [website](https://portal.naturecast.org/), [software package](https://github.com/weecology/Portalcasting)
 
 For more information, please contact jobapps@dapperstats.com
+<br>
+  
