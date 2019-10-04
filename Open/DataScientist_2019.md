@@ -8,7 +8,7 @@
 
 **Posted**: 2019-10-04
 
-**Review of Stage 1 Submissions Begins**: 2019-10-18
+**Review of Stage 1 Submissions Begins**: 2019-10-19
 
 **Open Until Filled**
 
@@ -84,7 +84,7 @@ Candidates should submit the following to express their interest in the position
   * Examples include link to a software application, a manuscript, or slides of a talk.
   * If necessary, provide an accompanying paragraph of text explaining the product's context.
 
-Review of materials will begin October 18 2019 (closing time: 2019-10-18 23:59:59 UTC-7), but the position will stay open until filled.
+Review of materials will begin October 19 2019, but the position will stay open until filled.
 
 #### Second Stage
 
