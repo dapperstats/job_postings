@@ -6,7 +6,7 @@
 
 [DAPPER Stats](https://www.dapperstats.com) is hiring! We are seeking a motivated data scientist to join our team and help expand our company by assisting with ongoing projects focused on Pacific coast fisheries, avian impacts of renewable power facilities, and wetland mitigation designs, as well as by leading new projects aligned with their interests.
 
-**Posted**: 2019-10-03
+**Posted**: 2019-10-04
 
 **Review of Stage 1 Submissions Begins**: 2019-10-18
 
