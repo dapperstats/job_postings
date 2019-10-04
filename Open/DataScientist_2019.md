@@ -1,4 +1,4 @@
-<a href='https://www.dapperstats.com>
+<a href='https://www.dapperstats.com'>
 <img src = 'https://github.com/dapperstats/Lab_Documents/blob/master/Logo/logo_web_color.png' alt = 'DAPPER logo' height = '80' align="right" />
 </a>
 
